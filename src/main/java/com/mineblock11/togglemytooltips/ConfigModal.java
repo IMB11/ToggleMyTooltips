@@ -1,9 +1,10 @@
 package com.mineblock11.togglemytooltips;
 
-import io.wispforest.owo.config.annotation.*;
-import net.minecraft.util.Formatting;
+import io.wispforest.owo.config.annotation.Config;
+import io.wispforest.owo.config.annotation.Expanded;
+import io.wispforest.owo.config.annotation.Modmenu;
+import io.wispforest.owo.config.annotation.SectionHeader;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @Modmenu(modId = "togglemytooltips")
