@@ -1,0 +1,14 @@
+{
+  "text.config.toggle-my-tooltips-config.title": "Toggle My Tooltips",
+
+  "text.config.toggle-my-tooltips-config.option.showHeldItemTooltip": "Visible",
+  "text.config.toggle-my-tooltips-config.option.scaleModifier": "Font Size",
+  "text.config.toggle-my-tooltips-config.option.shouldApplyFormattingExtras": "Apply Extra Formatting",
+  "text.config.toggle-my-tooltips-config.option.formattingExtras": "Extra Formatting",
+
+  "text.config.toggle-my-tooltips-config.enum.scaleModifier.normal": "Normal",
+  "text.config.toggle-my-tooltips-config.enum.scaleModifier.small": "Small",
+  "text.config.toggle-my-tooltips-config.enum.scaleModifier.large": "Large",
+
+  "text.config.toggle-my-tooltips-config.section.heldItemSection": "Held Item Tooltip"
+}
